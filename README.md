@@ -1,2 +1,2 @@
 # my-first-blog
-DjangGirls Tutorial
+DjangoGirls Tutorial
